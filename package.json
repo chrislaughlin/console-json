@@ -1,7 +1,7 @@
 {
   "name": "console-json",
   "version": "1.0.0",
-  "description": "Describe console-json here",
+  "description": "Short hand for JSON.stringify(obj, null, indent)",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -16,8 +16,7 @@
     "test:coverage": "nwb test --coverage",
     "test:watch": "nwb test --server"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "nwb": "0.18.x"
   },

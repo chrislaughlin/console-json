@@ -1,6 +1,6 @@
 {
   "name": "console-json",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Short hand for JSON.stringify(obj, null, indent)",
   "main": "lib/index.js",
   "module": "es/index.js",

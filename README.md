@@ -4,6 +4,10 @@
 
 To lazy to type `JSON.stringify(obj, null, indent)` try `console.json(obj)`
 
+<img src="https://raw.githubusercontent.com/chrislaughlin/console-json/master/public/json.png" alt="Console JSON Logo" height="250px"/>
+
+Logo designed by [Liffy Designs](http://www.liffydesigns.co.uk/)
+
 # Usage
 
 ## Install
